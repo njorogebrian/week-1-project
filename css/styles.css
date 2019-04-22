@@ -1,2 +1,16 @@
-#heading1: color: #red;
-text-align: center;
+h1 {
+  color: #62DBCA;
+  font-style: italic;
+  text-align: center;
+}
+
+h2 {
+  color: #EA5B3D;
+  font-style: italic;
+  text-align: center;
+}
+
+body {
+  background: #C682B0;
+  font-family: sans-serif;
+}
