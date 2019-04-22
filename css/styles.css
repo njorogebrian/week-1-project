@@ -1,17 +1,2 @@
-h1 {
-  color: #CB5C45;
-  text-align: center;
-}
-
-h2 {
-  color: blue;
-  font-style: italic;
-}
-
-p {
-  color: gray;
-}
-
-body {
-  background-color: blue;
-}
+#heading1: color: #red;
+text-align: center;
