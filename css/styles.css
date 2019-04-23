@@ -15,6 +15,13 @@ body {
   font-family: sans-serif;
 }
 
+.come {
+  border: 3px solid red;
+  padding: 40%;
+  margin: 10px;
+  background-color: #23758E
+}
+
 h3 {
   font-style: italic;
 }
@@ -31,4 +38,13 @@ img {
 .column {
   width: 350px;
   float: left;
+  background-color: coral;
+}
+
+.test-box {
+  border: 2px solid red;
+}
+
+.grey {
+  background-color: grey
 }
