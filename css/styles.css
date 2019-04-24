@@ -26,6 +26,14 @@ h3 {
   font-style: italic;
 }
 
+.favorite-sport {
+  height: 80spx;
+}
+
+.gamer {
+  height: 50spx;
+}
+
 img {
   float: right;
 }
@@ -42,7 +50,7 @@ img {
 }
 
 .test-box {
-  border: 2px solid red;
+  border: 3px solid blue;
 }
 
 .grey {
