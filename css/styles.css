@@ -37,20 +37,24 @@ h3 {
   margin-left: 120px;
   margin-top: -200px;
 }
+
 .column {
   width: 700px;
   background-color: coral;
+  height: 920px;
 }
 
 .grey {
   background-color: grey;
   float: left;
+  margin-left: 100px;
 }
 
 p {
   font-size: 23px;
   color: white;
 }
-ul .favorite-sport img{
+
+.favorite-sport {
   margin-top: -30px;
 }
